@@ -1,5 +1,4 @@
-# ⚡ Flash Loan System (Solidity Example)
-
+# ⚡ FlashLoan System
 A simple **Flash Loan** implementation in Solidity that demonstrates how a user can **borrow funds without collateral**, provided the borrowed amount is **repaid within the same transaction block**.
 
 > ⚠️ **Disclaimer:**  
